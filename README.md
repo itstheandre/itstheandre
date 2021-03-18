@@ -23,7 +23,7 @@ Most of my clients have been focused on e-commerce. Wether to create a store fro
 
 
 
-![My icon](Profile-Andre.png)
+![My icon](icon.png)
 - ⚡ Fun fact: I do really like wearing a beanie
 
 <!--
