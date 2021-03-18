@@ -1,3 +1,15 @@
+<div style="display: flex;">
+![My icon](icon.png)
+<div>
+<p>My name is André and I am a full stack developer with a previous career in business, that allows me to translate business needs to the technology world.</p>
+
+<p>I am also a web development teacher focused on trying to make the web easier for the my students.</p>
+
+<p>I have had the fortune of working with clients in the United States, Germany, Portugal, and Wales.</p>
+
+<p>Most of my clients have been focused on e-commerce. Wether to create a store from scratch or redesigning previous stores with new technology stacks and platforms.</p>
+</div>
+</div>
 ### Hi there 👋! 
 
 My name is André and I am a full stack developer with a previous career in business, that allows me to translate business needs to the technology world.
