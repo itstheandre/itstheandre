@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+My name is André and I am a full stack developer with a previous career in business, that allows me to translate business needs to the technology world.
+
+I am also a web development teacher focused on trying to make the web easier for the my students
+
+I have had the fortune of working with clients in the United States, Germany, Portugal, and Wales.
+
+Most of my clients have been focused on e-commerce. Wether to create a store from scratch or redesigning previous stores with new technology stacks and platforms.
+
+<br>
+<br>
+
+
+[![Visit My Website](https://img.shields.io/badge/VISIT-MY%20WEBSITE-gray.svg?colorA=FFE7E2&colorB=f85333&style=for-the-badge)][n] 
+
+[![Check some of my Projects](https://img.shields.io/badge/CLIENT-WORK-gray.svg?colorA=FFE7E2&colorB=f85333&style=for-the-badge)][p] 
+
+[n]: https://itstheandre.com
+[p]: https://itstheandre.com/projects
+
+
+
+
+
+![My icon](Profile-Andre.png)
+
 <!--
 **itstheandre/itstheandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +42,4 @@ https://github.com/itstheandre/itstheandre-v2/blob/d910d7d1ce274226077c10e0b01d8
 - ⚡ Fun fact: ...
 -->
 
-[s]: https://itstheandre.com
+
