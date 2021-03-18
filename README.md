@@ -19,9 +19,6 @@ Most of my clients have been focused on e-commerce. Wether to create a store fro
 - ⚡ Fun fact: I do really like wearing a beanie
 
 
-<br>
-<br>
-
 
 [![Visit My Website](https://img.shields.io/badge/VISIT-MY%20WEBSITE-gray.svg?colorA=FFE7E2&colorB=f85333&style=for-the-badge)][n] 
 
@@ -32,9 +29,6 @@ Most of my clients have been focused on e-commerce. Wether to create a store fro
 
 
 
-
-
-- ⚡ Fun fact: I do really like wearing a beanie
 
 <!--
 **itstheandre/itstheandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
