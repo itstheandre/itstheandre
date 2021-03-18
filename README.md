@@ -3,8 +3,10 @@
 <!--
 **itstheandre/itstheandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![My website](https://github.com/itstheandre/itstheandre-v2/blob/d910d7d1ce274226077c10e0b01d81cf4c866f44/public/images/about/dark-hero.png)][s]
 
+
+https://github.com/itstheandre/itstheandre-v2/blob/d910d7d1ce274226077c10e0b01d81cf4c866f44/public/images/about/dark-hero.png
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[s]: https://itstheandre.com
