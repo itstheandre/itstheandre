@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! 
 
 My name is André and I am a full stack developer with a previous career in business, that allows me to translate business needs to the technology world.
 
@@ -24,6 +24,7 @@ Most of my clients have been focused on e-commerce. Wether to create a store fro
 
 
 ![My icon](Profile-Andre.png)
+- ⚡ Fun fact: I do really like wearing a beanie
 
 <!--
 **itstheandre/itstheandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
